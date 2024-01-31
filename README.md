@@ -1,7 +1,5 @@
 # Infinite Search
 
-[中文说明](./README_zh.md)
-
 ## Overview
 
 Based on [Search with Lepton](https://github.com/leptonai/search_with_lepton).
@@ -45,25 +43,4 @@ If you are interested in this, please follow us on Twitter to receive the latest
 https://twitter.com/vlinx_soft
 
 ## Build and run this project
-
-### Prerequisites
-1. OpenAI API
-2. Google Search API
-3. Java 21
-
-Fill in the corresponding information in `application-dev.properties`
-
-
-### Build
-
-```shell
-./gradlew build -x test
-```
-
-### Run
-
-```shell
-java -jar build/libs/infinite-search-$version.jar
-```
-
-Open browser and visit http://localhost:8605
+[Build](./BUILD.md)
