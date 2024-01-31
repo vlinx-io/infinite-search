@@ -42,4 +42,5 @@ If you are interested in this, please follow us on Twitter to receive the latest
 
 https://twitter.com/vlinx_soft
 
-## [Build and run this project](./BUILD.md)
+## Build and run this project
+[Build](./BUILD.md)
