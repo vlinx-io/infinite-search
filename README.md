@@ -65,3 +65,5 @@ Fill in the corresponding information in `application-dev.properties`
 ```shell
 java -jar build/libs/infinite-search-$version.jar
 ```
+
+Open browser and visit http://localhost:8605
