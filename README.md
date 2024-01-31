@@ -31,6 +31,31 @@ Compared with Search With Lepton, we provide two information processing flows.
 3. How to retrieve more relevant and accurate content from the vector database
 4. How to allow the LLM to handle more contextual information
 
+
+## Build and run this project
+
+### Prerequisites
+1. OpenAI API
+2. Google Search API
+3. Java 21
+
+Fill in the corresponding information in `application-dev.properties`
+
+
+### Build
+
+```shell
+./gradlew build -x test
+```
+
+### Run
+
+```shell
+java -jar build/libs/infinite-search-$version.jar
+```
+
+Open browser and visit http://localhost:8605
+
 ## Open Documentation
 We believe open-source is not just about open source code, but also about open documentation. We are planning a series of documentations to explain the principles of machine learning and RAG development used in this project,
 
