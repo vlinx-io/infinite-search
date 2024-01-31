@@ -1,5 +1,7 @@
 # Infinite Search
 
+[中文说明](./README_zh.md)
+
 ## Overview
 
 Based on [Search with Lepton](https://github.com/leptonai/search_with_lepton).
@@ -32,8 +34,10 @@ Compared with Search With Lepton, we provide two information processing flows.
 ## Open Documentation
 We believe open-source is not just about open source code, but also about open documentation. We are planning a series of documentations to explain the principles of machine learning and RAG development used in this project,
 
-Please follow our Twitter to receive the latest information.
+Below is the first article:
 
+[How AI Search Engine Works] (https://vlinx.io/blog/how-ai-search-works)
 
+If you are interested in this, please follow us on Twitter to receive the latest information.
 
-
+https://twitter.com/vlinx_soft
