@@ -36,7 +36,7 @@ We believe open-source is not just about open source code, but also about open d
 
 Below is the first article:
 
-[How AI Search Engine Works] (https://vlinx.io/blog/how-ai-search-works)
+[How AI Search Engine Works](https://vlinx.io/blog/how-ai-search-works)
 
 If you are interested in this, please follow us on Twitter to receive the latest information.
 
