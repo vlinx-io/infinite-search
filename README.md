@@ -2,7 +2,7 @@
 
 [中文说明](./README_zh.md)
 
-[Demo] (https://search.vlinx.io)
+[Demo](https://search.vlinx.io)
 
 ## Overview
 
