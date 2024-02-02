@@ -1,5 +1,7 @@
 # Infinite Search
 
+[Demo](https://search.vlinx.io)
+
 ## 项目介绍
 
 基于[Search with Lepton](https://github.com/leptonai/search_with_lepton)项目，

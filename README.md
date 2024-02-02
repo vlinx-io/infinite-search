@@ -2,6 +2,8 @@
 
 [中文说明](./README_zh.md)
 
+[Demo] (https://search.vlinx.io)
+
 ## Overview
 
 Based on [Search with Lepton](https://github.com/leptonai/search_with_lepton).
