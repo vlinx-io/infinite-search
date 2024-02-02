@@ -4,7 +4,7 @@
 
 ## 项目介绍
 
-基于[Search with Lepton](https://github.com/leptonai/search_with_lepton)项目，
+AI搜索引擎，基于[Search with Lepton](https://github.com/leptonai/search_with_lepton)项目，
 将后端替换为了SpringBoot + LangChain4J，同时对信息处理流程做了一些调整。
 
 感谢[Lepton](https://www.lepton.ai/)团队的杰出工作，揭开了RAG搜索的神秘面纱，实现了开源版的[Plexarity](https://www.perplexity.ai/)
