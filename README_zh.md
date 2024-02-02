@@ -33,5 +33,26 @@
 3. 如何从向量数据库中检索出更为贴近和准确的内容
 4. 如何让大语言模型处理更多的上下文信息
 
-## 构建项目
-[build](./BUILD_zh.md)
+## 构建项目与运行项目
+
+### 前置准备
+1. OpenAI API
+2. Google Search API
+3. Java 21
+
+把相应的信息填入到 `application-dev.properties`
+
+
+### Build
+
+```shell
+./gradlew build -x test
+```
+
+### Run
+
+```shell
+java -jar build/libs/infinite-search-$version.jar
+```
+
+打开浏览器访问 http://localhost:8605
