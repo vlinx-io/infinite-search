@@ -6,7 +6,7 @@
 
 ## Overview
 
-Based on [Search with Lepton](https://github.com/leptonai/search_with_lepton).
+An AI Search Engine inspired by [Search with Lepton](https://github.com/leptonai/search_with_lepton).
 Replaced the backend with SpringBoot + LangChain4J, and made some adjustments to the information processing flow.
 
 Thanks to the great work of [Lepton](https://www.lepton.ai/) for demystifying RAG search, enabling open-source version of [Perplexity](https://www.perplexity.ai/)
